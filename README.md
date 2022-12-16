@@ -1,1 +1,100 @@
-# cv
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>💜Ashmit's Personal Site</title>
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="Images\Ashmit's Profile.png" alt="Ashmit's Profile-img"></td>
+            <td>
+                <h1>Ashmit Rawat</h1>
+                <p><em>Student At <strong> <a href="https://www.gehu.ac.in">Graphic Era Hill University</a>
+                        </strong></em></p>
+                <p>I am the Android and Web Developer, And I ❤️ Anime.</p>
+            </td>
+        </tr>
+    </table>
+    <hr size="3" noshade>
+
+    <h3>Educations:</h3>
+    <table cellspacing="10">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Education</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2008-2020</td>
+                <td>Did schooling from Kendriya Vidyalaya</td>
+            </tr>
+            <tr>
+                <td>2021-2025</td>
+                <td>Pursuing Btech in Computer Science from Graphic Era Hill University</td>
+            </tr>
+        </tbody>
+        <tfoot>
+
+        </tfoot>
+
+    </table>
+    <hr size="3" noshade>
+    <h3>Hobbies:</h3>
+    <ol>
+        <li>Watching Anime.</li>
+        <li>Solving Rubic cube</li>
+        <li>Taekwondo</li>
+        <li>Automobiles</li>
+
+    </ol>
+    <hr size="3" noshade>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+        <tr>
+            <td>
+                <table cellspacing="10">
+                    <tr>
+                        <td>Android Development</td>
+                        <td>⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Web Development</td>
+                        <td>⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Competetive Coding</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table cellspacing="10">
+                    <tr>
+                        <td>Taekwondo</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Communication Skills</td>
+                        <td>⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Problem Solver</td>
+                        <td>⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    
+    <!--Contact Details Link-->
+    <hr size="3" noshade>
+    <a href="contactDetails.html">Contact Details</a>
+</body>
+
+</html>
